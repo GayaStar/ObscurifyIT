@@ -1,0 +1,12 @@
+flask
+flask-cors
+werkzeug
+pytesseract
+opencv-python
+pdfplumber
+reportlab
+spacy
+numpy
+pandas
+tensorflow
+Pillow
