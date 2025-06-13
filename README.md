@@ -13,7 +13,7 @@ ObscurifyIT is a machine learning-powered redaction tool designed to detect and 
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/GayaStar/ObscurifyIT.git
 cd ObscurifyIT
 
