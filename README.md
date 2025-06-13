@@ -9,3 +9,25 @@ ObscurifyIT is a machine learning-powered redaction tool designed to detect and 
 - GAN-powered synthetic replacements for anonymized data
 - Support for text and PDF formats
 - Compliance-focused design (GDPR, HIPAA, CCPA)
+## 🚀 How to Run ObscurifyIT
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/GayaStar/ObscurifyIT.git
+cd ObscurifyIT
+
+### 2.Start the Frontend
+npm install
+npm start
+
+### 3.Start the Backend
+pip install -r requirements.txt
+python app1.py
+### 4.Start the Auth Server (Node.js)
+bash
+Copy
+Edit
+cd public/server
+npm install
+node server.js
